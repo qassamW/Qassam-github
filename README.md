@@ -38,3 +38,4 @@ This project was inspired by the **Udacity Data Analyst Nanodegree Program**. Sp
 - **Refactored Code**: A few sections of code were rewritten for improved performance and readability.
 - **Enhanced Visualizations**: New graphs and charts to provide improved insights.
 - **Enhanced Filtering Facility**: The user can now filter data dynamically for more precise analysis.
+- **Documentation Status**: ready.
