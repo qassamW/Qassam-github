@@ -157,7 +157,7 @@ def user_stats(df):
     print('-'*40)
 
 
-def display_raw_data(df):
+def display_data(df):
     """Displays 5 lines of raw data at a time upon user request."""
     start = 0
     while True:
